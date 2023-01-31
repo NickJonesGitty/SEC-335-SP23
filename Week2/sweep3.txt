@@ -1,0 +1,24 @@
+Nmap scan report for 10.0.5.50 [host down, received no-response]
+# Nmap done at Mon Jan 23 19:02:18 2023 -- 49 IP addresses (11 hosts up) scanned in 2.60 seconds
+Host: 10.0.5.2 ()	Status: Up
+Host: 10.0.5.21 ()	Status: Up
+Host: 10.0.5.22 ()	Status: Up
+Host: 10.0.5.23 ()	Status: Up
+Host: 10.0.5.24 ()	Status: Up
+Host: 10.0.5.25 ()	Status: Up
+Host: 10.0.5.26 ()	Status: Up
+Host: 10.0.5.27 ()	Status: Up
+Host: 10.0.5.28 ()	Status: Up
+Host: 10.0.5.31 ()	Status: Up
+Host: 10.0.5.32 ()	Status: Up
+10.0.5.2
+10.0.5.21
+10.0.5.22
+10.0.5.23
+10.0.5.24
+10.0.5.25
+10.0.5.26
+10.0.5.27
+10.0.5.28
+10.0.5.31
+10.0.5.32
